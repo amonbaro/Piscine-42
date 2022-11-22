@@ -1,5 +1,5 @@
-# Piscine
-42 Lausanne | September 2022 Piscine
+# Piscine 42 Lausanne
+September 2022 | Student since October 2022
 
 Remember, copying everything will not help you in the future :)
 
